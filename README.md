@@ -12,7 +12,7 @@ I code mostly using Go. If you wish to see some of my projects on gRPC services 
  - Awarded as one of the winners of the **[2021 Mattermost Community Awards](https://mattermost.com/blog/2021-mattermost-community-awards/)** on January 12, 2022.
  - Awarded as the **[Mattermost Release v6.1 MVP-Most Valued Professional](https://developers.mattermost.com/contribute/mvp/)** on November 16, 2021.
 
- 3.  [PingCAP TiDB](https://github.com/pingcap/tidb)
+ 2.  [PingCAP TiDB](https://github.com/pingcap/tidb)
 - Made multiple contributions to update and migrate the test infrastructure for several Go packages in **[tidb](https://github.com/pingcap/tidb)** code base - **[Link to merged pull requests.](https://github.com/pulls?q=author:penthaapatel+org:pingcap+is:pr+is:merged)**.
 You can also follow along my programming journey on my blog -  [penthaapatel.github.io](http://penthaapatel.github.io/)  where I document my learnings about tech and programming.
 
