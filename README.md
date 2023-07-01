@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring software developer from India 🇮🇳  I graduated from IIIT Bh with a Bachelor's in Computer Science and Engineering and I am **actively looking for entry level software developer roles** right now.
+I'm a software developer and Infosec researcher from India 🇮🇳  I graduated from IIIT Bh with a Bachelor's in Computer Science and Engineering and I am **actively looking Infosec roles** right now.
 
 I code mostly using Go. If you wish to see some of my projects on gRPC services and REST APIs using Go, check out the pinned repositories here on [my GitHub profile](https://github.com/penthaapatel).
 
