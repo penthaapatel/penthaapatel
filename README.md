@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a software developer and Infosec researcher from India 🇮🇳  I graduated from IIIT Bh with a Bachelor's in Computer Science and Engineering and I am **actively looking Infosec roles** right now.
+I am a Golang developer with a strong interest in cybersecurity, and I would be excited to discuss how I can contribute to your team.
 
-I code mostly using Go. If you wish to see some of my projects on gRPC services and REST APIs using Go, check out the pinned repositories here on [my GitHub profile](https://github.com/penthaapatel).
+I graduated from IIIT Bh with a Bachelor's in Computer Science and Engineering.
+
+I'm proficient in Go, and I have experience developing some individual projects that implement REST APIs, gRPC protocols. To view the projects, you may check out the pinned repositories here on [my GitHub profile](https://github.com/penthaapatel).
 
 ***Here are some of my key Open Source Contributions:***
 
